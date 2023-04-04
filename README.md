@@ -5,6 +5,10 @@ Originally by Keith Braithwaite.
 
 `https://github.com/sf105/tdd-as-if-you-meant-it`
 
+Also inspired by Johannes Brodwall.
+
+https://github.com/jhannes/kata
+
 ## Test-Driven Development isn't complicated
 1. Add a little test
 1. Run all the tests and watch the new one fail

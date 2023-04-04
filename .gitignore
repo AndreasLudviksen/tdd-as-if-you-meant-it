@@ -11,3 +11,8 @@
 *.rar
 
 README.html
+*.dll
+*.pdb
+obj/
+bin/
+.idea/
