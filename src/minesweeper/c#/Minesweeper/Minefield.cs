@@ -2,11 +2,11 @@
 
 public class Minefield
 {
-    private string[] strings;
+    private string[] field;
 
-    public Minefield(string[] strings)
+    public Minefield(string[] field)
     {
-        this.strings = strings;
+        this.field = field;
     }
 
     public object CalculateHints()
